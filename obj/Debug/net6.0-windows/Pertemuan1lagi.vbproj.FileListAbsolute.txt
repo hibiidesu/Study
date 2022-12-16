@@ -1,0 +1,42 @@
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.AssemblyReference.cache
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormPerhitungan.resources
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.GenerateResource.cache
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.AssemblyInfoInputs.cache
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.AssemblyInfo.vb
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.CoreCompileInputs.cache
+D:\Nabil Falih\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.exe
+D:\Nabil Falih\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.deps.json
+D:\Nabil Falih\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.runtimeconfig.json
+D:\Nabil Falih\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.dll
+D:\Nabil Falih\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.pdb
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.dll
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\refint\Pertemuan1lagi.dll
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.pdb
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.genruntimeconfig.cache
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\ref\Pertemuan1lagi.dll
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.Resources.resources
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormPendaftaran.resources
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormOnline.resources
+D:\Nabil Falih\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.imfeelinglucky.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.exe
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.deps.json
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.runtimeconfig.json
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.dll
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\bin\Debug\net6.0-windows\Pertemuan1lagi.pdb
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.AssemblyReference.cache
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormOnline.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormPendaftaran.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.FormPerhitungan.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.imfeelinglucky.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.Resources.resources
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.GenerateResource.cache
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.AssemblyInfoInputs.cache
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.AssemblyInfo.vb
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.vbproj.CoreCompileInputs.cache
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.dll
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\refint\Pertemuan1lagi.dll
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.pdb
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\Pertemuan1lagi.genruntimeconfig.cache
+D:\Visual Basic Nabil Falih TI2B\Pertemuan1lagi\obj\Debug\net6.0-windows\ref\Pertemuan1lagi.dll
